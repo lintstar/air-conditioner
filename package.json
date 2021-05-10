@@ -4,9 +4,9 @@
   "version": "0.1.2",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "https://www.lintstar.top",
+    "email": "admin@lintstar.top",
+    "name": "Lintstar"
   },
   "scripts": {
     "dev": "yarn start",
