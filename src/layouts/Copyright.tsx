@@ -19,7 +19,7 @@ function Copyright() {
         </Typography>
       </Box>
       <Typography variant="body2" color="textSecondary" align="center">
-        {" 2019 - " + new Date().getFullYear()}
+        {" 2021 - " + new Date().getFullYear()}
       </Typography>
     </div>
   );
