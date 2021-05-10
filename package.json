@@ -37,7 +37,7 @@
     "type": "git",
     "url": "https://github.com/lintstar/air-conditioner"
   },
-  "homepage": "https://www.lintstar.top/air-conditioner/",
+  "homepage": "https://ac.lintstar.top/",
   "dependencies": {
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.3.0",
