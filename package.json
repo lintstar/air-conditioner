@@ -37,7 +37,7 @@
     "type": "git",
     "url": "https://github.com/lintstar/air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://www.lintstar.top/air-conditioner/",
   "dependencies": {
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.3.0",
